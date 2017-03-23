@@ -1,4 +1,4 @@
-function rysujChoinke(n) {
+function drawChritmastree(n) {
     
     for (var i = 1; i <= n; i++) {
        var star =''; 
@@ -10,5 +10,4 @@ function rysujChoinke(n) {
     }
 }
 
-rysujChoinke(10)
-
+drawChritmastree(10)
